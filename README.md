@@ -133,8 +133,6 @@ https://docs.python.org/release/3.12.0/
 2. Knowledge On Cloud Engineering[AWS,GCP,Azure]
 
 ## Internships:
-![Red White Modern Youtube Thumbnail (2)](https://user-images.githubusercontent.com/20041231/211718275-abc43b47-b53d-40d7-a93c-24aceaa6bec8.jpg)
-
 iNeuron Internships: https://internship.ineuron.ai/
 
 ## Data Science Tracker Sheet For Learning
