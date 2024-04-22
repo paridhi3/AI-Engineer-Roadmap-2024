@@ -6,15 +6,15 @@
 
 ## 1. Python Programming Language -1 Month
 #### Python:
-1. Complete Python Playlist In English: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB)
-2. Complete Python Playlist In Hindi:   [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=MJd9d9Mpxg0&list=PLTDARY42LDV4qqiJd1Z1tShm3mp9-rP4v)
-3. Flask Playlist:    [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc)
+1. Complete Python Playlist In English: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB)
+2. Complete Python Playlist In Hindi:   [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=MJd9d9Mpxg0&list=PLTDARY42LDV4qqiJd1Z1tShm3mp9-rP4v)
+3. Flask Playlist:    [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc)
 
 ## 2. Statistics
 
-1. English: 7 Days Statistics Live Session : [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay)
-2. Statistics in ML(43 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=zRUliXuwJCQ&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO)
-3. Stats Hindi Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ)
+1. English: 7 Days Statistics Live Session : [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay)
+2. Statistics in ML(43 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=zRUliXuwJCQ&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO)
+3. Stats Hindi Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ)
 
 ### Free Courses On Linear Algebra, Stats
 1. Linear Algebra: https://www.khanacademy.org/math/linear-algebra
@@ -22,31 +22,31 @@
 3. Differential Equations: https://www.khanacademy.org/math/differential-equations
 
 ### EDA
-1. EDA Live :[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/playlist?list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh)
-2. EDA Detailed Playlist:[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=ioN1jcWxbv8&list=PLZoTAELRMXVPQyArDHyQVjQxjj_YmEuO9)
+1. EDA Live :[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh)
+2. EDA Detailed Playlist:[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=ioN1jcWxbv8&list=PLZoTAELRMXVPQyArDHyQVjQxjj_YmEuO9)
 
 ### Feature Engineering
-1. Complete Detailed Feature Engineering: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=6WDFfaYtN6s&list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN)
-2. Live EDA Feature Engineering Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=bTN-6VPe8c0&list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh)
+1. Complete Detailed Feature Engineering: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=6WDFfaYtN6s&list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN)
+2. Live EDA Feature Engineering Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=bTN-6VPe8c0&list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh)
 
 ## 3. Databases
-1. Mongodb: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=magzEfYqIos&list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I)
-2. Mysql: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl)
+1. Mongodb: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=magzEfYqIos&list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I)
+2. Mysql: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl)
 3. Apache Cassandra Database: [![YouTube](https://img.shields.io/badge/documentaion-link-green)](https://cassandra.apache.org/_/index.html )
 
 ### 4. Machine Learning
-1. Live ML Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=z8sxaUw_f-M&list=PLZoTAELRMXVPjaAzURB77Kz0YXxj65tYz)
-2. Complete ML Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
-3. Hindi: ML Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ)
+1. Live ML Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=z8sxaUw_f-M&list=PLZoTAELRMXVPjaAzURB77Kz0YXxj65tYz)
+2. Complete ML Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
+3. Hindi: ML Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ)
 
 ### 5. Deep Learning Playlist:
-1. 5 Days Live Deep Learning Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns)
-2. Complete Deep Learning Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=YFNKnUhm_-s&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
-3. Deep Learning Playlist In Hindi: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=SlbbvhO3jKY&list=PLTDARY42LDV4Ic6ZPHIh_CdlPwkKDJmpk)
+1. 5 Days Live Deep Learning Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns)
+2. Complete Deep Learning Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=YFNKnUhm_-s&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
+3. Deep Learning Playlist In Hindi: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=SlbbvhO3jKY&list=PLTDARY42LDV4Ic6ZPHIh_CdlPwkKDJmpk)
 
 ### 6. NLP Playlist:
-1. English: Live NLP Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn)
-2. Complete NLP Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=fM4qTMfCoak&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm)
+1. English: Live NLP Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn)
+2. Complete NLP Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=fM4qTMfCoak&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm)
 
 ## Important Frameworks for Production Deployments
 - Flask Detailed Playlist In English:[![YouTube](https://img.shields.io/badge/documentaion-link-green)](https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc)
@@ -74,8 +74,8 @@
 #### Agile Software Development And Data Science Project Development Life Cycle [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=gYsU2VTESE8)
 
 #### End To End ML,DL,NLP Projects With MLOPS With Deployment And Open Source Tools
-1. End To End ML Projects Playlist In English: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=S_F_c9e2bz4&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=1)
-2. End To End ML Playlist In Hindi: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=NuwUnRpxq2c&list=PLTDARY42LDV7jzL_f68SY-eOQ9tY2lYvR)
+1. End To End ML Projects Playlist In English: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=S_F_c9e2bz4&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=1)
+2. End To End ML Playlist In Hindi: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=NuwUnRpxq2c&list=PLTDARY42LDV7jzL_f68SY-eOQ9tY2lYvR)
 
 ### Machine Learning, Deep Learning, and NLP Projects
 
@@ -92,13 +92,13 @@
 9. **Kidney Disease Classification** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=86BKEv0X2xU)
 
 
-#### Roadmap To Generative AI [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=nCglvjJkU8A)
-1. Updated Langchain Playlist:[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=KmQOlg5YfU0&list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ&pp=gAQBiAQB)
-2. Finetuning Techniques LLM:[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=Vg3dS-NLUT4&list=PLZoTAELRMXVN9VbAx5I2VvloTtYmlApe3&pp=gAQBiAQB)
-3. AWS Bedrock:[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=2maPaQutcWs&list=PLZoTAELRMXVP8-wzKPtrRST3jNCprvMZj&pp=gAQBiAQB)
-4. Llamaindex Playlist:[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=1eym7BTnuNg&list=PLZoTAELRMXVNOWh1SDXt5NFujQMOt-CWy&pp=gAQBiAQB)
-5. Google Gemini Playlist With Projects:[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=it0l6lx3qI0&list=PLZoTAELRMXVNbDmGZlcgCA3a8mRQp5axb&pp=gAQBiAQB)
-6. Langchain Playlist:[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=4O1rs7mrNDo&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar&pp=gAQBiAQB)
+#### Roadmap To Generative AI [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=nCglvjJkU8A)
+1. Updated Langchain Playlist:[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=KmQOlg5YfU0&list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ&pp=gAQBiAQB)
+2. Finetuning Techniques LLM:[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=Vg3dS-NLUT4&list=PLZoTAELRMXVN9VbAx5I2VvloTtYmlApe3&pp=gAQBiAQB)
+3. AWS Bedrock:[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=2maPaQutcWs&list=PLZoTAELRMXVP8-wzKPtrRST3jNCprvMZj&pp=gAQBiAQB)
+4. Llamaindex Playlist:[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=1eym7BTnuNg&list=PLZoTAELRMXVNOWh1SDXt5NFujQMOt-CWy&pp=gAQBiAQB)
+5. Google Gemini Playlist With Projects:[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=it0l6lx3qI0&list=PLZoTAELRMXVNbDmGZlcgCA3a8mRQp5axb&pp=gAQBiAQB)
+6. Langchain Playlist:[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=4O1rs7mrNDo&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar&pp=gAQBiAQB)
 
 ## Special Mention [Good To Have Skills]
 1. Knowledge Of Big Data Engineering
